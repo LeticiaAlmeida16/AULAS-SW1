@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\SW-I-main\Exer12-04\ExerSite\ExerSite\obj\Debug\net6.0\ExerSite.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\SW-I-main\Exer12-04\ExerSite\ExerSite\obj\Debug\net6.0\ExerSite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\SW-I-main\Exer12-04\ExerSite\ExerSite\obj\Debug\net6.0\ExerSite.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\SW-I-main\Exer12-04\ExerSite\ExerSite\obj\Debug\net6.0\ExerSite.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\SW-I-main\Exer12-04\ExerSite\ExerSite\obj\Debug\net6.0\ExerSite.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\SW-I-main\Exer12-04\ExerSite\ExerSite\bin\Debug\net6.0\ExerSite.exe
+C:\Users\Aluno\Desktop\SW-I-main\Exer12-04\ExerSite\ExerSite\bin\Debug\net6.0\ExerSite.deps.json
+C:\Users\Aluno\Desktop\SW-I-main\Exer12-04\ExerSite\ExerSite\bin\Debug\net6.0\ExerSite.runtimeconfig.json
+C:\Users\Aluno\Desktop\SW-I-main\Exer12-04\ExerSite\ExerSite\bin\Debug\net6.0\ExerSite.dll
+C:\Users\Aluno\Desktop\SW-I-main\Exer12-04\ExerSite\ExerSite\bin\Debug\net6.0\ExerSite.pdb
+C:\Users\Aluno\Desktop\SW-I-main\Exer12-04\ExerSite\ExerSite\obj\Debug\net6.0\ExerSite.dll
+C:\Users\Aluno\Desktop\SW-I-main\Exer12-04\ExerSite\ExerSite\obj\Debug\net6.0\refint\ExerSite.dll
+C:\Users\Aluno\Desktop\SW-I-main\Exer12-04\ExerSite\ExerSite\obj\Debug\net6.0\ExerSite.pdb
+C:\Users\Aluno\Desktop\SW-I-main\Exer12-04\ExerSite\ExerSite\obj\Debug\net6.0\ExerSite.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\SW-I-main\Exer12-04\ExerSite\ExerSite\obj\Debug\net6.0\ref\ExerSite.dll
