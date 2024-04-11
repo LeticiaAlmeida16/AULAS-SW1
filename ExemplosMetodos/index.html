@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplos Métodos</title>
+</head>
+<body>
+    <script>
+        // Método sem parametro e sem retorno
+        function metodo1(){
+            console.log('Olá mundo!')
+        }
+
+        // Método com parametro e sem retorno
+        function metodo2(texto){
+            console.log(texto)
+        }
+
+        // Método sem parametro e com retorno
+        function metodo3(){
+            var frase = 'Uma frase de retorno'
+            return frase
+        }
+
+        // Método com parametro e com retorno
+        function metodo4(texto){
+            var frase = texto
+            return frase
+        }
+
+        //Chamando os métodos
+        metodo1()
+        metodo2("Chamei o 2")
+        console.log(metodo3())
+        console.log(metodo4('Chamei o 4'))
+
+    </script>
+</body>
+</html>
